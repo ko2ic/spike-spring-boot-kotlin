@@ -28,6 +28,25 @@ proguard/
 # Log Files
 *.log
 
+*.iml
+.idea/workspace.xml
+.idea/libraries
+.idea/*.xml
+!.idea/codeStyleSettings.xml
+!.idea/copyright/*.xml 
+!.idea/fileColors.xml 
+!.idea/fileTemplates/
+!.idea/encodings.xml 
+!.idea/gradle.xml 
+!.idea/runConfigurations/*.xml 
+!.idea/inspectionProfiles/*.xml 
+!.idea/scopes/*.xml 
+!.idea/templateLanguages.xml 
+!.idea/vcs.xml
+
+
+/captures
+
 .DS_Store
 .idea/shelf
 /android.tests.dependencies
